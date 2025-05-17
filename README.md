@@ -2,10 +2,7 @@
     <img src="readme/logo/logo-transparent.png" alt="OpenPixel's Logo" weight=500 height=500/>
 </div>
 
-<img alt="License" src="https://img.shields.io/github/license/linzhichen114/openpixel-display"/>
-    <img alt="Release (latest by date)" src="https://img.shields.io/github/v/release/linzhichen114/openpixel-display"/>
-    <img alt="Issues" src="https://img.shields.io/github/issues/linzhichen114/openpixel-display"/>
-    <img alt="Stars" src="https://img.shields.io/github/stars/linzhichen114/openpixel-display"/>
+<img alt="License" src="https://img.shields.io/github/license/linzhichen114/openpixel-display"/> <img alt="Release (latest by date)" src="https://img.shields.io/github/v/release/linzhichen114/openpixel-display"/> <img alt="Issues" src="https://img.shields.io/github/issues/linzhichen114/openpixel-display"/> <img alt="Stars" src="https://img.shields.io/github/stars/linzhichen114/openpixel-display"/>
 
 - Languages : **English** | [简体中文](readme/README-zh-CN.md)
 
